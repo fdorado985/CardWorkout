@@ -18,3 +18,9 @@ Through these tags you can navigate through each section developed on the app.
 | Screenshot 01 |
 | ------------- |
 | ![ss01](.screenshots/ss01.png) |
+
+### [outlets-actions-and-rules-screen](https://github.com/fdorado985/CardWorkout/tree/outlets-actions-and-rules-screen)
+
+| Screenshot 02a | Screenshot 02b |
+| -------------- | -------------- |
+| ![ss02a](.screenshots/ss02a.png) | ![ss02b](.screenshots/ss02b.png) |

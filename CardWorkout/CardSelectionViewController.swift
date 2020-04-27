@@ -10,8 +10,22 @@ import UIKit
 
 class CardSelectionViewController: UIViewController {
 
+  // MARK: - Outlets
+
+  @IBOutlet var cardImageView: UIImageView!
+  @IBOutlet var buttons: [UIButton]!
+
+  // MARK: - View Lifecycle
+
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view.
+
+    buttons.forEach { $0.layer.cornerRadius = 8 }
+  }
+
+  // MARK: - Actions
+
+  @IBAction func stopButtonDidTap(_ sender: UIButton) {
+
   }
 }
