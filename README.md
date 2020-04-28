@@ -24,3 +24,9 @@ Through these tags you can navigate through each section developed on the app.
 | Screenshot 02a | Screenshot 02b |
 | -------------- | -------------- |
 | ![ss02a](.screenshots/ss02a.png) | ![ss02b](.screenshots/ss02b.png) |
+
+### [timers-cards-and-logic](https://github.com/fdorado985/CardWorkout/tree/timers-cards-and-logic)
+
+| Screenshot 03 |
+| ------------- |
+| ![ss03](.screenshots/ss03.gif) |
