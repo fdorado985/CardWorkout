@@ -11,6 +11,10 @@ Don't you know what to do? well, let the cards to decide for you!
 
 ### Notes
 
+This app was created using storyboards, if you want to see this same app created programmatically, you can go here.
+
+[Card Workout - Storyboard](https://github.com/fdorado985/CardWorkout-Programmatic)
+
 If you are looking for the logic to get the cards from your assets using a loop function instead the static you can copy the gist from here
 
 [Gist: Get All The Cards from Assets](https://gist.github.com/fdorado985/c4615ea211467360d2a24bdb08a347a6)
